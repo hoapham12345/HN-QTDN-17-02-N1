@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_crm_root" name="CRM &amp; Công việc" sequence="10"/>
+    
+    <menuitem id="menu_khach_hang" name="Khách hàng" parent="menu_crm_root" action="action_khach_hang" sequence="1"/>
+    <menuitem id="menu_cong_viec" name="Công việc" parent="menu_crm_root" action="action_cong_viec" sequence="2"/>
+</odoo>

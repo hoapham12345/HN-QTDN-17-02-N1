@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_khach_hang,khach.hang,model_khach_hang,,1,1,1,1
+access_cong_viec,cong.viec,model_cong_viec,,1,1,1,1
